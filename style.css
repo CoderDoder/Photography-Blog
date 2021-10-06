@@ -1,0 +1,28 @@
+body{
+    background-color: darkviolet;
+    text-align:center;
+     background-image: url('data:image/svg+xml,%3Csvg width="42" height="44" viewBox="0 0 42 44" xmlns="http://www.w3.org/2000/svg"%3E%3Cg id="Page-1" fill="none" fill-rule="evenodd"%3E%3Cg id="brick-wall" fill="%239C92AC" fill-opacity="0.4"%3E%3Cpath d="M0 0h42v44H0V0zm1 1h40v20H1V1zM0 23h20v20H0V23zm22 0h20v20H22V23z"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E');
+}
+img{
+   height: 700px;
+    border-radius: 30px;
+    box-shadow: 2px 4px 35px 6px #fcba03;
+        
+}
+h1{
+    font-family: fantasy;
+    font-size: 80px;
+    text-decoration: underline;
+    text-shadow: 4px 2px 3px #fcba03;
+}
+p{
+    font-family: fantasy;
+    font-size: 30px;
+    text-shadow: 4px 2px 3px #fcba03;
+}
+h5{
+   font-family: fantasy;
+    font-size: 20px;
+    text-decoration: underline;
+    text-shadow: 4px 2px 3px #fcba03; 
+}
